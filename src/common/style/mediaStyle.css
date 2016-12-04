@@ -1,0 +1,7 @@
+@media (-webkit-min-device-pixel-ratio: 3),(min-device-pixel-ratio: 3) {
+  .title .brand{
+    background-image: url(./brand@3x.png);
+	background-repeat: no-repeat;
+	background-size:30px 18px;
+  }
+}
